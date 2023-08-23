@@ -1,0 +1,16 @@
+{
+    "thsarabunnew": {
+        "normal": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/barcode_export\/micro_barcode_export\/storage\/fonts\/thsarabunnew_normal_0d259e6efb3195b4977470dc8fd135c3",
+        "italic": "\/Applications\/XAMPP\/xamppfiles\/htdocs\/barcode_export\/micro_barcode_export\/storage\/fonts\/thsarabunnew_italic_cd2895748a1cfd5aa9fca7dbc4b8243a",
+        "bold_italic": "thsarabunnew_bold_italic_b96ff61251441a67960802d0fbf61629"
+    },
+    "thsarabunnew-bolditalic": {
+        "italic": "thsarabunnew_bolditalic_italic_cd2895748a1cfd5aa9fca7dbc4b8243a"
+    },
+    "thsarabunnew-italic": {
+        "bold_italic": "thsarabunnew_italic_bold_italic_b96ff61251441a67960802d0fbf61629"
+    },
+    "thsarabunnew-bold": {
+        "bold": "thsarabunnew_bold_bold_177d885704dbb20a24782851cd743460"
+    }
+}
